@@ -8,87 +8,61 @@ import android.widget.RelativeLayout;
 
 public class Activity_Main extends AppCompatActivity {
 
-    RelativeLayout rellay_timeline, rellay_friends, rellay_chat, rellay_music,
-            rellay_gallery, rellay_map, rellay_weather, rellay_settings;
+    RelativeLayout rellay_Mydet,rellay_Myunits,rellay_Myatt,rellay_qr,rellay_logout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        rellay_timeline = findViewById(R.id.rellay_timeline);
-        rellay_friends = findViewById(R.id.rellay_friends);
-        rellay_chat = findViewById(R.id.rellay_chat);
-        rellay_music = findViewById(R.id.rellay_music);
-        rellay_gallery = findViewById(R.id.rellay_gallery);
-        rellay_map = findViewById(R.id.rellay_map);
-        rellay_weather = findViewById(R.id.rellay_weather);
-        rellay_settings = findViewById(R.id.rellay_settings);
 
-        rellay_timeline.setOnClickListener(new View.OnClickListener() {
+        rellay_Mydet=findViewById(R.id.rellay_Mydet);
+        rellay_Myunits=findViewById(R.id.rellay_myunits);
+        rellay_Myatt = findViewById(R.id.rellay_Myatt);
+        rellay_qr = findViewById(R.id.rellay_qr);
+        rellay_logout= findViewById(R.id.rellay_logout);
+
+        rellay_Mydet.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Activity_Main.this, Activity_Timeline.class);
+                Intent intent = new Intent(Activity_Main.this, Activity_myDetails.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
                 startActivity(intent);
             }
         });
 
-        rellay_friends.setOnClickListener(new View.OnClickListener() {
+        rellay_Myatt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Activity_Main.this, Activity_Friends.class);
+                Intent intent = new Intent(Activity_Main.this, Activity_myAttendance.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
                 startActivity(intent);
             }
         });
-        rellay_chat.setOnClickListener(new View.OnClickListener() {
+        rellay_qr.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Activity_Main.this, Activity_Chat.class);
+                Intent intent = new Intent(Activity_Main.this, Activity_qr.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
                 startActivity(intent);
             }
         });
-        rellay_music.setOnClickListener(new View.OnClickListener() {
+        rellay_Myunits.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Activity_Main.this, Activity_Music.class);
+                Intent intent = new Intent(Activity_Main.this, Activity_myUnits.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
                 startActivity(intent);
             }
         });
-        rellay_gallery.setOnClickListener(new View.OnClickListener() {
+        rellay_logout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Activity_Main.this, Activity_Gallery.class);
+                Intent intent = new Intent(Activity_Main.this, Activity_login.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
                 startActivity(intent);
             }
         });
-        rellay_map.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(Activity_Main.this, Activity_Map.class);
-                intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
-                startActivity(intent);
-            }
-        });
-        rellay_weather.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(Activity_Main.this, Activity_Weather.class);
-                intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
-                startActivity(intent);
-            }
-        });
-        rellay_settings.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(Activity_Main.this, Activity_Settings.class);
-                intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
-                startActivity(intent);
-            }
-        });
+
     }
 }

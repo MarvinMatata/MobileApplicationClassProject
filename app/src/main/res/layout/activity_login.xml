@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.halo.dashboardmenu.Activity_login">
+
+
+    <ImageView
+        android:layout_width="206dp"
+        android:layout_height="152dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/qr" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="285dp"
+        android:layout_height="78dp"
+        android:text="QR CLASS ATTENDANCE"
+        android:textSize="25dp"
+        android:layout_marginLeft="125dp"
+        android:layout_marginTop="50dp"/>
+
+    <RelativeLayout
+
+        android:id="@+id/login_stdn"
+        android:layout_width="68dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="400dp"
+        android:background="@color/grey"
+        android:clickable="true"
+
+        >
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:text="STUDENT" />
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:id="@+id/login_lec"
+        android:layout_width="68dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="400dp"
+        android:background="@color/grey"
+        android:clickable="true"
+
+        >
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:text="LECTURER" />
+    </RelativeLayout>
+
+</RelativeLayout>

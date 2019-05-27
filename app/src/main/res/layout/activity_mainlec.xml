@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.halo.dashboardmenu.Activity_Main">
+    tools:context="com.halo.dashboardmenu.Activity_Mainlec">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -19,19 +19,26 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
+            <TextView
+                android:layout_width="182dp"
+                android:layout_height="49dp"
+                android:layout_marginLeft="70dp"
+                android:textSize="25dp"
+                android:text="LECTURER X" />
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="242dp"
+                android:layout_marginTop="50dp"
                 android:layout_weight="1">
 
                 <RelativeLayout
-                    android:id="@+id/rellay_Mydet"
+                    android:id="@+id/rellay_Mydetl"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
-                    android:layout_margin="10dp"
                     android:layout_alignParentEnd="true"
                     android:layout_alignParentRight="true"
                     android:layout_centerVertical="true"
+                    android:layout_margin="10dp"
                     android:layout_weight="0.65"
                     android:background="@color/darkviolet"
                     android:clickable="true"
@@ -67,11 +74,11 @@
                 </RelativeLayout>
 
                 <RelativeLayout
-                    android:id="@+id/rellay_myunits"
+                    android:id="@+id/rellay_editclass"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
-                    android:layout_weight="0.55"
                     android:layout_margin="10dp"
+                    android:layout_weight="0.55"
                     android:background="@color/darkviolet"
                     android:clickable="true"
                     android:foreground="?attr/selectableItemBackground">
@@ -98,7 +105,7 @@
                             android:layout_below="@+id/imgView2"
                             android:layout_centerHorizontal="true"
                             android:layout_marginTop="5dp"
-                            android:text="My Units"
+                            android:text="Edit Class"
                             android:textSize="14sp" />
 
                     </RelativeLayout>
@@ -109,12 +116,12 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="263dp"
                 android:layout_marginTop="15dp"
                 android:layout_weight="1">
 
                 <RelativeLayout
-                    android:id="@+id/rellay_Myatt"
+                    android:id="@+id/rellay_printqr"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
                     android:layout_margin="10dp"
@@ -128,15 +135,15 @@
                         android:layout_height="wrap_content"
                         android:layout_centerInParent="true">
 
-                        <ImageView android:id="@+id/imgView3"
-                        android:layout_width="60dp"
-                        android:layout_height="60dp"
-                        android:layout_centerHorizontal="true"
-                        android:adjustViewBounds="true"
-                        android:padding="8dp"
-                        android:scaleType="centerInside"
-                        android:src="@drawable/ic_chat"
-                        android:tint="@color/white" />
+                        <ImageView
+                            android:id="@+id/imgView3"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:layout_centerHorizontal="true"
+                            android:adjustViewBounds="true"
+                            android:padding="8dp"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/qr" />
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -144,7 +151,7 @@
                             android:layout_below="@+id/imgView3"
                             android:layout_centerHorizontal="true"
                             android:layout_marginTop="5dp"
-                            android:text="View Attendance"
+                            android:text="Generate code"
                             android:textSize="15sp" />
 
                     </RelativeLayout>
@@ -152,13 +159,13 @@
                 </RelativeLayout>
 
                 <RelativeLayout
-                    android:id="@+id/rellay_qr"
+                    android:id="@+id/rellay_logout"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
+                    android:layout_margin="10dp"
                     android:layout_weight="0.65"
                     android:background="@color/darkviolet"
                     android:clickable="true"
-                    android:layout_margin="10dp"
                     android:foreground="?attr/selectableItemBackground">
 
                     <RelativeLayout
@@ -174,64 +181,16 @@
                             android:adjustViewBounds="true"
                             android:padding="8dp"
                             android:scaleType="centerInside"
-                            android:src="@drawable/qr"
-                            />
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_below="@+id/imgView4"
-                            android:layout_centerHorizontal="true"
-                            android:text="Scan Code"
-                            android:layout_marginTop="5dp"
-                            android:textSize="14sp" />
-
-                    </RelativeLayout>
-
-                </RelativeLayout>
-
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_marginTop="15dp"
-                android:layout_weight="1">
-
-                <RelativeLayout
-                    android:id="@+id/rellay_logout"
-                    android:layout_width="150dp"
-                    android:layout_height="150dp"
-                    android:layout_marginLeft="100dp"
-                    android:layout_marginRight="100dp"
-                    android:layout_weight="0.65"
-                    android:background="@color/darkviolet"
-                    android:clickable="true"
-                    android:foreground="?attr/selectableItemBackground">
-
-                    <RelativeLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_centerInParent="true">
-
-                        <ImageView
-                            android:id="@+id/imgView8"
-                            android:layout_width="60dp"
-                            android:layout_height="60dp"
-                            android:layout_centerHorizontal="true"
-                            android:adjustViewBounds="true"
-                            android:padding="8dp"
-                            android:scaleType="centerInside"
                             android:src="@drawable/logout"
                             android:tint="@color/white" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_below="@+id/imgView8"
+                            android:layout_below="@+id/imgView4"
                             android:layout_centerHorizontal="true"
-                            android:text="Logout"
                             android:layout_marginTop="5dp"
+                            android:text="Logout"
                             android:textSize="14sp" />
 
                     </RelativeLayout>

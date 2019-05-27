@@ -1,44 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.halo.dashboardmenu">
-
+    <uses-permission android:name="android.permission.CAMERA"   />
+    <uses-feature android:name="com.android"/>
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:icon="@drawable/qr"
+        android:label="QR Class Attendance"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activity_Main">
+        <activity android:name=".Activity_login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Activity_Main">
+
+        </activity>
         <activity
-            android:name=".Activity_Timeline"
-            android:theme="@style/ThemeTimeline" />
+            android:name=".Activity_myDetails">
+
+        </activity>
         <activity
-            android:name=".Activity_Chat"
-            android:theme="@style/ThemeChat" />
+            android:name=".Activity_myAttendance"
+             />
         <activity
-            android:name=".Activity_Music"
-            android:theme="@style/ThemeMusic" />
+            android:name=".Activity_myUnits"
+             />
         <activity
-            android:name=".Activity_Gallery"
-            android:theme="@style/ThemeGallery" />
+            android:name=".Activity_qr"
+             />
         <activity
-            android:name=".Activity_Map"
-            android:theme="@style/ThemeMap" />
-        <activity
-            android:name=".Activity_Weather"
-            android:theme="@style/ThemeWeather" />
-        <activity
-            android:name=".Activity_Settings"
-            android:theme="@style/ThemeSettings" />
-        <activity android:name=".Activity_Friends"
-            android:theme="@style/ThemeFriends"></activity>
+            android:name=".Activity_logout"
+             />
+        <activity android:name=".Activity_editclass"/>
+        <activity android:name=".Activity_myDetailslec"/>
+        <activity android:name=".Activity_printqr"/>
+        <activity android:name=".Activity_Mainlec"/>
+
     </application>
 
 </manifest>
