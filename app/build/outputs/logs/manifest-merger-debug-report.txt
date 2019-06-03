@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\1f895d7a050a8e2b382bb1f7b997da2a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\4c5632826a994c249bb6f3db251de9f2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\62cf7715bd583d3a6703ee7cb25f6754\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\ae0efb9ce89b9e89f99326f9219770e8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\a3e62e91fbdd20cd50df1c8f79319bdd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\6d83d2526f8d3657dd23384955dc2d78\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\7f4c76c6578bd9377b1fc4b3b95d7cb4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\35d8668a2f91d8d5292fede909247707\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\b14f4f38cba98b1d78adeb7673afc0a1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\9388d557ed525a1e6ba998e2c8a12655\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\381697f56b8b624951dd8601305546ff\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:5:5-42:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\1f895d7a050a8e2b382bb1f7b997da2a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\1f895d7a050a8e2b382bb1f7b997da2a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\4c5632826a994c249bb6f3db251de9f2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\4c5632826a994c249bb6f3db251de9f2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\62cf7715bd583d3a6703ee7cb25f6754\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\62cf7715bd583d3a6703ee7cb25f6754\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\ae0efb9ce89b9e89f99326f9219770e8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\ae0efb9ce89b9e89f99326f9219770e8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\a3e62e91fbdd20cd50df1c8f79319bdd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\a3e62e91fbdd20cd50df1c8f79319bdd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\6d83d2526f8d3657dd23384955dc2d78\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\6d83d2526f8d3657dd23384955dc2d78\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\7f4c76c6578bd9377b1fc4b3b95d7cb4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\7f4c76c6578bd9377b1fc4b3b95d7cb4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\35d8668a2f91d8d5292fede909247707\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\35d8668a2f91d8d5292fede909247707\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\b14f4f38cba98b1d78adeb7673afc0a1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\b14f4f38cba98b1d78adeb7673afc0a1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\9388d557ed525a1e6ba998e2c8a12655\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\9388d557ed525a1e6ba998e2c8a12655\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\381697f56b8b624951dd8601305546ff\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\381697f56b8b624951dd8601305546ff\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.halo.dashboardmenu.Activity_Main
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:12:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.halo.dashboardmenu.Activity_Timeline
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:19:9-21:52
+	android:theme
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:20:13-46
+activity#com.halo.dashboardmenu.Activity_Chat
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:22:9-24:48
+	android:theme
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:23:13-42
+activity#com.halo.dashboardmenu.Activity_Music
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:25:9-27:49
+	android:theme
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:27:13-46
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:26:13-43
+activity#com.halo.dashboardmenu.Activity_Gallery
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:28:9-30:51
+	android:theme
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:29:13-45
+activity#com.halo.dashboardmenu.Activity_Map
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:31:9-33:47
+	android:theme
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:32:13-41
+activity#com.halo.dashboardmenu.Activity_Weather
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:34:9-36:51
+	android:theme
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:36:13-48
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:35:13-45
+activity#com.halo.dashboardmenu.Activity_Settings
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:37:9-39:52
+	android:theme
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:38:13-46
+activity#com.halo.dashboardmenu.Activity_Friends
+ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:40:9-41:60
+	android:theme
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:41:13-48
+	android:name
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml:40:19-51
+uses-sdk
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\1f895d7a050a8e2b382bb1f7b997da2a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\1f895d7a050a8e2b382bb1f7b997da2a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\4c5632826a994c249bb6f3db251de9f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\4c5632826a994c249bb6f3db251de9f2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\62cf7715bd583d3a6703ee7cb25f6754\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\62cf7715bd583d3a6703ee7cb25f6754\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\ae0efb9ce89b9e89f99326f9219770e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\ae0efb9ce89b9e89f99326f9219770e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\a3e62e91fbdd20cd50df1c8f79319bdd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\a3e62e91fbdd20cd50df1c8f79319bdd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\6d83d2526f8d3657dd23384955dc2d78\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\6d83d2526f8d3657dd23384955dc2d78\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\7f4c76c6578bd9377b1fc4b3b95d7cb4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\7f4c76c6578bd9377b1fc4b3b95d7cb4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\35d8668a2f91d8d5292fede909247707\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\35d8668a2f91d8d5292fede909247707\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\b14f4f38cba98b1d78adeb7673afc0a1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\b14f4f38cba98b1d78adeb7673afc0a1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\9388d557ed525a1e6ba998e2c8a12655\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\9388d557ed525a1e6ba998e2c8a12655\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\381697f56b8b624951dd8601305546ff\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\381697f56b8b624951dd8601305546ff\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\1f895d7a050a8e2b382bb1f7b997da2a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marvin Matata\Desktop\School Notes\Third Year\Mobile Application\Project\DashboardMenu\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\1f895d7a050a8e2b382bb1f7b997da2a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\62cf7715bd583d3a6703ee7cb25f6754\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\62cf7715bd583d3a6703ee7cb25f6754\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\ae0efb9ce89b9e89f99326f9219770e8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\ae0efb9ce89b9e89f99326f9219770e8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\a3e62e91fbdd20cd50df1c8f79319bdd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\a3e62e91fbdd20cd50df1c8f79319bdd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\6d83d2526f8d3657dd23384955dc2d78\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\6d83d2526f8d3657dd23384955dc2d78\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\7f4c76c6578bd9377b1fc4b3b95d7cb4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\7f4c76c6578bd9377b1fc4b3b95d7cb4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\35d8668a2f91d8d5292fede909247707\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\35d8668a2f91d8d5292fede909247707\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\b14f4f38cba98b1d78adeb7673afc0a1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\b14f4f38cba98b1d78adeb7673afc0a1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\9388d557ed525a1e6ba998e2c8a12655\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\9388d557ed525a1e6ba998e2c8a12655\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\1f895d7a050a8e2b382bb1f7b997da2a\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\1f895d7a050a8e2b382bb1f7b997da2a\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\381697f56b8b624951dd8601305546ff\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\381697f56b8b624951dd8601305546ff\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Marvin Matata\.gradle\caches\transforms-2\files-2.1\381697f56b8b624951dd8601305546ff\AndroidManifest.xml:26:13-58
